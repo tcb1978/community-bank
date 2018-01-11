@@ -1,0 +1,9 @@
+.logo {
+    width: 250px;
+}
+
+.login-button {
+    display: inherit;
+    margin: 3em auto;
+    padding: 1em;
+}
